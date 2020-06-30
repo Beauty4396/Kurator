@@ -1,2 +1,1 @@
 # Kurator-master
-# Kurator-master
